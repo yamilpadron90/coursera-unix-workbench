@@ -1,3 +1,3 @@
 #The UNIX Workebench#
-
-The total words are 
+Current date: ****
+The total lines code are 
