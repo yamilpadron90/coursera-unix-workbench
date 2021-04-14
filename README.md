@@ -1,5 +1,5 @@
 # The UNIX Workebench # 
 
-Current date: **  ** 
+Current date: jue 15 abr 2021 00:22:42 CEST 
 
-The total lines code are 
+The total lines of codes are 30 guessinggame.sh
